@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.34574477.chunk.css",
-    "main.js": "/static/js/main.206046c1.chunk.js",
-    "main.js.map": "/static/js/main.206046c1.chunk.js.map",
+    "main.css": "/static/css/main.fb0fbc2d.chunk.css",
+    "main.js": "/static/js/main.51110d38.chunk.js",
+    "main.js.map": "/static/js/main.51110d38.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5dd86154.js",
     "runtime-main.js.map": "/static/js/runtime-main.5dd86154.js.map",
-    "static/js/2.e34ec4eb.chunk.js": "/static/js/2.e34ec4eb.chunk.js",
-    "static/js/2.e34ec4eb.chunk.js.map": "/static/js/2.e34ec4eb.chunk.js.map",
+    "static/js/2.36cb633d.chunk.js": "/static/js/2.36cb633d.chunk.js",
+    "static/js/2.36cb633d.chunk.js.map": "/static/js/2.36cb633d.chunk.js.map",
     "static/js/3.05dceb04.chunk.js": "/static/js/3.05dceb04.chunk.js",
     "static/js/3.05dceb04.chunk.js.map": "/static/js/3.05dceb04.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.34574477.chunk.css.map": "/static/css/main.34574477.chunk.css.map",
-    "static/js/2.e34ec4eb.chunk.js.LICENSE.txt": "/static/js/2.e34ec4eb.chunk.js.LICENSE.txt",
+    "static/css/main.fb0fbc2d.chunk.css.map": "/static/css/main.fb0fbc2d.chunk.css.map",
+    "static/js/2.36cb633d.chunk.js.LICENSE.txt": "/static/js/2.36cb633d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/mario-bg.c9fe338e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5dd86154.js",
-    "static/js/2.e34ec4eb.chunk.js",
-    "static/css/main.34574477.chunk.css",
-    "static/js/main.206046c1.chunk.js"
+    "static/js/2.36cb633d.chunk.js",
+    "static/css/main.fb0fbc2d.chunk.css",
+    "static/js/main.51110d38.chunk.js"
   ]
 }

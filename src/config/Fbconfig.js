@@ -4,7 +4,7 @@ import 'firebase/auth';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 var firebaseConfig = {
-	apiKey: 'AIzaSyA3ZOxE9pWrPjIeO6wD-5RxnyGL5U5a344',
+	apiKey: 'AIzaSyA3ZOxE9pWrPjIeO6wD-5RxnyGL5firU5a344',
 	authDomain: 'notification-project-af221.firebaseapp.com',
 	projectId: 'notification-project-af221',
 	storageBucket: 'notification-project-af221.appspot.com',
