@@ -63,6 +63,15 @@ node app.js
 
 ## 🤔 How to contribute
 
+**Make Changes to code and pushing to Firebase directly**
+
+```
+npm run build
+firebase deploy
+```
+
+Note: Copy all the contents from build folder to dist folder before running deploy
+
 **Make a fork of this repository**
 
 ```bash
